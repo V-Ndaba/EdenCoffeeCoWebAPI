@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\EdenAPI</_PublishTargetUrl>
+    <History>True|2023-02-08T14:31:03.8592593Z;True|2023-02-08T16:05:10.4645500+02:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DatabaseConnection">
+      <Value>Data Source=G3NGH1S-KHAN\SQLEXPRESS%3bInitial Catalog=EdenDB%3bIntegrated Security=true%3b encrypt=optional</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
